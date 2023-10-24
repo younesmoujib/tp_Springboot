@@ -24,7 +24,7 @@
 ## API (delete student)
 
 
-### datebase Before
+### database Before
 
 ![277510307-43da2dc1-39a8-4e09-abc1-c388b03999d1](https://github.com/younesmoujib/tp_Springboot/assets/132173844/ea78647e-6ec1-4c15-b6e3-655a74720f18)
 
@@ -36,7 +36,7 @@
 ![image](https://github.com/younesmoujib/tp_Springboot/assets/132173844/3b8847e0-3fdf-4e3b-93e7-47625a00c2bf)
 
 
-### datebase After
+### database After
 
 
 ![image](https://github.com/younesmoujib/tp_Springboot/assets/132173844/63b1e8df-7c86-4904-b69d-1b369295461e)
